@@ -1,4 +1,4 @@
-### HND Software Development Web Development Project
+### HND Software Development Web Development Module Project
 
 This project was originally developed as part of my Web Development module in HND Software Year 1.   
        
