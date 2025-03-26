@@ -1,4 +1,4 @@
-### HND Software Development  
+### Daft Punk Website Project 
 ###### Web Development Module 
 
 This project was originally developed as part of my Web Development Project in HND Software Year 1.   
